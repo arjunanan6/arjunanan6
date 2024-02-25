@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 * 👂 My name is Arjun.
 * 🤝 I’m a looking to collaborate on pretty much anything interesting. The definition of interesting, however, may vary.
 * 🤔 I’m looking to help with anything, really. More importantly, looking to learn from new experiences.
@@ -28,15 +28,15 @@
 <h2> 🚀 &nbsp;My credentials</h2>
 <p align="left">
 <a href="https://www.credly.com/badges/6ecaa4e8-27a8-40b6-a26a-08c3d1ebe54c">
-    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="aws-cert" width="75" height="75"/>
+    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="aws-cert" width="45" height="45"/>
 </a><a href="https://www.credly.com/earner/earned/badge/227774aa-e581-4689-b5c4-1bfc3beda5f1">
-    <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="azure-cert" width="75" height="75"/>
+    <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="azure-cert" width="45" height="45"/>
 </a><a href="https://www.credly.com/earner/earned/badge/c3a6fbab-a8b6-400f-a0db-a769fbe12399">
-    <img src="https://images.credly.com/size/340x340/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" alt="ckad-cert" width="75" height="75"/>
+    <img src="https://images.credly.com/size/340x340/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" alt="ckad-cert" width="45" height="45"/>
 </a><a href="https://www.credly.com/earner/earned/badge/0f3da0fb-3ec4-4a33-bf65-d65d0fec2be5">
-    <img src="https://images.credly.com/size/340x340/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" alt="terraform-cert" width="75" height="75"/>
+    <img src="https://images.credly.com/size/340x340/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" alt="terraform-cert" width="45" height="45"/>
 </a></a><a href="https://rhtapps.redhat.com/verify?certId=180-029-258">
-    <img src="https://media.licdn.com/dms/image/C4E0BAQEto-TydTTIfQ/company-logo_100_100/0/1630583759577/red_hat_logo?e=1717027200&v=beta&t=54oZWZ53B4P8poK1pPVzejLV6KbOJ6RzqXOwp36-qoM" alt="rhce-cert" width="75" height="75"/>
+    <img src="https://media.licdn.com/dms/image/C4E0BAQEto-TydTTIfQ/company-logo_100_100/0/1630583759577/red_hat_logo?e=1717027200&v=beta&t=54oZWZ53B4P8poK1pPVzejLV6KbOJ6RzqXOwp36-qoM" alt="rhce-cert" width="45" height="45"/>
 </a>
 </p>
 
